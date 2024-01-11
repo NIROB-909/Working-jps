@@ -12,6 +12,6 @@ git clone https://github.com/NIROB-909/Working-jps.git
 
 cd Working-jps 
 
-python jps.py 
+python jps-ran.py 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬                              
