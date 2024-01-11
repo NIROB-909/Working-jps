@@ -4,5 +4,5 @@
 #Hello Hacker,s 0.2 TEAM
 
 import os
-import working.py
+import Working-jps
 working.py.loging()
