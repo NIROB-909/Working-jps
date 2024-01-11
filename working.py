@@ -3,5 +3,5 @@
 #তর টিম কে আন্তর্জাতিক ভাবে চুদি 
 
 import os
-import jps.py
-jps.py.loging()
+import working.py
+working.py.loging()
